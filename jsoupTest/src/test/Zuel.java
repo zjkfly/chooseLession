@@ -16,8 +16,8 @@ public class Zuel
 		LinkedList<String> p_qxrxk = new LinkedList<>();
 		LinkedList<String> p_qxrxk_kxh = new LinkedList<>();
 
-		String name = "201504000103";// 学号
-		String pwd = "OMCIUD";// 密码
+		String name = "USERNAME";// 学号
+		String pwd = "PASSWORD";// 密码
 		p_qxrxk.add("B0400540");
 		p_qxrxk_kxh.add("9");
 		int waitTime = 20000;// 请求等待时间，毫秒
